@@ -51,7 +51,7 @@ font-weight: bold;
     border: 5px solid silver;
 }
 .invs{
-display:none;
+visibility: hidden;
 }
 
 
