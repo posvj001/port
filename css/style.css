@@ -1,0 +1,137 @@
+/* 초기화 */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ol, ul {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+    color: #000000;
+}
+img {
+    vertical-align: middle;
+}
+button {
+    border: none;
+}
+input, textarea {
+    outline: none;
+}
+.clearfix {
+    clear: both;
+}
+span{display: inline-block;}
+
+/*  */
+
+
+
+/* 텍스트 제어 */
+.text_center{
+    text-align: center;
+}
+.bold{
+font-weight: bold;
+}
+
+.text_white{
+    color: white;
+}
+.text_black{
+    color: black;
+}
+
+.boder_3_silver{
+    border: 3px solid silver;
+}
+.boder_5_silver{
+    border: 5px solid silver;
+}
+
+
+/* 블럭제어 */
+.heigh_500px{
+height: 500px;
+}
+.width_full{
+width: 100%;
+}
+.width_20per{
+    width: 20%;
+    }
+.display_block{
+display: block;
+}
+
+.rigth{
+    right: 0%;
+    }
+
+
+.flex_center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+.flex_row{
+    display: flex;
+	flex-direction: row;
+}
+
+.padding_top_40px{
+    padding-top: 40px;
+    } 
+.margin_right_40px{
+margin-right: 40px;
+}
+.margin_bottom_5px{
+    margin-bottom: 5px;
+    }
+
+.bg_gray{
+    background-color: gray;
+}
+.bg_white{
+    background-color: white;
+}
+
+.fix{
+    position: fixed;
+}
+.position_absolute{
+    position: absolute;
+}
+.position_relative{
+    position: relative;
+}
+.overflow_hidden{
+    overflow: hidden;
+}
+
+/*  */
+
+#top{
+display: fixed;
+}
+
+#name_plate img{
+    width: 175px;
+    height: 235px;
+
+    margin: 0 auto 0 auto;
+
+    display: block;
+    
+    border: 2px solid silver;
+    border-radius: 25px;
+    overflow: hidden;
+
+}
+.product_item{
+width: 100%;
+height: 300ox;
+
+}
