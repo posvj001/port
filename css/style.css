@@ -71,7 +71,9 @@ visibility: hidden;
 .display_block{
 display: block;
 }
-
+.rigth{
+    right: 0px;
+}    
 
 
 .flex_center{
