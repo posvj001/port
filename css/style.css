@@ -33,6 +33,9 @@ span{display: inline-block;}
 .text_center{
     text-align: center;
 }
+.text_right{
+    text-align: right;
+}
 .bold{
 font-weight: bold;
 }
