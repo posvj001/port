@@ -74,7 +74,9 @@ display: block;
 .rigth{
     right: 0px;
 }    
-
+.empty_H_50per{
+    height: 50%;
+}
 
 .flex_center{
     display: flex;
